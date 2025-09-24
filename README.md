@@ -16,7 +16,7 @@ A simple weather application built with *HTML, CSS, and JavaScript* that fetches
 ---
 
 ## 🖼 Demo
-Live Demo: []
+Live Demo: [https://cassandra01-ctrl.github.io/weathercheck/]
 
 ---
 
@@ -31,4 +31,5 @@ Live Demo: []
 ## ⚙ Setup & Usage
 1. Clone this repository:
    ```bash
+
    git clone https://github.com/Cassandra01-ctrl/weathercheck.git

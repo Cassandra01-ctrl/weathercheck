@@ -63,4 +63,12 @@ button:hover {
 .weather-info p {
     margin: 5px 0;
     font-size: 1.2rem;
+
+}
+
+media (max-width: 640px) {
+    .weather-info {
+        flex-direction: column; /* stack vertically */
+        gap: 10px;
+    }
 }
